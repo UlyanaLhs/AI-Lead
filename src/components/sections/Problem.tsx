@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Card, CardHeader, CardTitle } from "@/components/ui/card";
-import { AlertCircle, Clock, TrendingDown } from "lucide-react";
+import { CircleAlert as AlertCircle, Clock, TrendingDown } from "lucide-react";
 import { useLang } from "@/lib/i18n";
 
 export default function Problem() {
